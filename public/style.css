@@ -1,0 +1,19 @@
+body {
+      background-image: url("./back.png");
+      font-family: 'Jura', sans-serif;
+}
+
+.input div {
+      margin: 10px;
+      color: white;
+}
+
+.input input {
+      margin-left: 5px;
+      border-color: rgb(255, 145, 0);
+      background-color: none;
+      border: 2px;
+      border-radius: 5px;
+      width: 30px;
+
+}
